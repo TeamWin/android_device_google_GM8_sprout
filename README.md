@@ -1,4 +1,4 @@
-Device configuration for General Mobile GM8
+Device configuration for General Mobile GM8 Single Sim
 ============================================================
 Basic   | Spec Sheet
 -------:|:-------------------------
