@@ -14,7 +14,7 @@
 # limitations under the License.
 #
 
-LOCAL_PATH := device/GM/GM8_s_sprout
+LOCAL_PATH := device/GM/GM8_sprout
 
 # Platform
 TARGET_BOARD_PLATFORM := MSM8937
